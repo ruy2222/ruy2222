@@ -1,45 +1,44 @@
-<h1 align="center">Hi 👋, I'm Stefan</h1>
-<h3 align="center">Junior Golang Developer 🚀</h3>
+<h1 align="center">
+I'm a Professional Developer 👨‍💻 working remotely since 2021 🚀
+</h1>
 
 <p align="center">
-  💻 Backend Development | 🌱 Learning Go Every Day | 🌍 Open to Remote Work
+  🛠 Senior Software Engineer with experience since 2021<br/>
+  🌱 I focus on building reliable, production-ready systems<br/>
+  💬 Ask me about MERN, Mobile, Blockchain
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 Working on Go backend projects
-- 🌱 Learning REST APIs, PostgreSQL, Docker
-- 💬 Ask me about Go, Git, APIs
-- ⚡ Fun fact: I enjoy solving backend problems
+## My Skill Set
+
+<table>
+  <tr>
+    <th align="center">Frontend</th>
+    <th align="center">Backend</th>
+    <th align="center">DevOps & CMS</th>
+    <th align="center">Mobile</th>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=react,vue,html,css,js,tailwind,bootstrap,figma" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=go,nodejs,python,php,dotnet,postgres,mysql,redis" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,git,github,linux,wordpress" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flutter,swift,kotlin,java,react" />
+    </td>
+  </tr>
+</table>
 
 ---
 
-### 🛠️ My Skill Set
-
-| Backend | Frontend | DevOps & Tools |
-|--------|----------|----------------|
-| ![Go](https://skillicons.dev/icons?i=go) | ![HTML](https://skillicons.dev/icons?i=html) | ![Git](https://skillicons.dev/icons?i=git) |
-| ![Postgres](https://skillicons.dev/icons?i=postgres) | ![CSS](https://skillicons.dev/icons?i=css) | ![GitHub](https://skillicons.dev/icons?i=github) |
-| ![MySQL](https://skillicons.dev/icons?i=mysql) | ![JavaScript](https://skillicons.dev/icons?i=js) | ![Docker](https://skillicons.dev/icons?i=docker) |
-| ![Redis](https://skillicons.dev/icons?i=redis) | ![React](https://skillicons.dev/icons?i=react) | ![Linux](https://skillicons.dev/icons?i=linux) |
-| ![REST](https://skillicons.dev/icons?i=postman) |  | ![Nginx](https://skillicons.dev/icons?i=nginx) |
-
----
-
-### 📌 Projects
-- 🔹 **go-mastering** – Go fundamentals & best practices
-- 🔹 **go-user-api** – REST API with authentication
-
----
-
-### 📊 GitHub Stats
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true" />
-</p>
-
----
-
-### 📫 Connect with Me
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+## 🤯 How I work
+- Clean architecture
+- Tests and documentation
+- Pragmatic, scalable solutions
