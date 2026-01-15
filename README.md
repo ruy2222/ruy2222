@@ -1,15 +1,12 @@
-## Hi there 👋
+I'm a Professional Web & Mobile developer 👨‍💻 working remotely since 2015 🚀
+🔭 I’m currently working on [Github](https://github.com/squirdev) - 🌱 I’m currently learning Hyper-ledger and Kubernetes - ❓ Ask me about anything related to MERN stack, Mobile App, Blockchain, and related technologies - ⚡ Fun fact: I Speed id the most important thing in Development
 
-
-**ruy2222/ruy2222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My Skill Set
+Frontend
+React Bootstrap CSS3 HTML5 JavaScript Chart.js Angular Tailwind CSS Vue.js Figma Photoshop WooCommerce Nuxt JS WordPress Adobe InDesign Sass
+Backend
+C++ JavaScript TypeScript PHP MongoDB Node.js Linux Nginx Python Express.js Git Redux Bash C# .NET Laravel MySQL Redis OpenCV Electron Ruby Nuxt JS Django Ruby on Rails
+DevOps & CMS
+AWS GCP Kubernetes Linux Git Bash GraphQL GitLab Firebase gulp.js Docker WordPress XAMPP WooCommerce Webpack Nginx
+Mobile
+Dart Tailwind CSS Unity Kotlin Java Ionic Cordova Flutter Swift
