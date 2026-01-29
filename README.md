@@ -5,7 +5,7 @@ I'm a Professional Developer 👨‍💻 working remotely since 2021 🚀
 <p align="center">
   🛠 Senior Software Engineer with experience since 2021<br/>
   🌱 I focus on building reliable, production-ready systems<br/>
-  💬 Ask me about MERN, Mobile, Blockchain
+  💬 Ask me about Golang, Mobile, Blockchain
 </p>
 
 ---
