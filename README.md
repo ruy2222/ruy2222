@@ -3,7 +3,7 @@ I'm a Professional Developer 👨‍💻 working remotely since 2021 🚀
 </h1>
 
 <p align="center">
-  🛠 Senior Software Engineer with experience since 2021<br/>
+  🛠 Golang developer with 8 years of experience since 2017<br/>
   🌱 I focus on building reliable, production-ready systems<br/>
   💬 Ask me about Golang, Mobile, Blockchain
 </p>
