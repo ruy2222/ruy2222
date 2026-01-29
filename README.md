@@ -21,7 +21,7 @@ I'm a Professional Developer 👨‍💻 working remotely since 2021 🚀
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,vue,html,css,js,tailwind,bootstrap,figma" />
+      <img src="https://skillicons.dev/icons?i=vue,html,css,js,tailwind,bootstrap,figma" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=go,nodejs,python,php,dotnet,postgres,mysql,redis" />
