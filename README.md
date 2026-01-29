@@ -17,7 +17,6 @@ I'm a Professional Developer 👨‍💻 working remotely since 2021 🚀
     <th align="center">Frontend</th>
     <th align="center">Backend</th>
     <th align="center">DevOps & CMS</th>
-    <th align="center">Mobile</th>
   </tr>
 
   <tr>
@@ -29,9 +28,6 @@ I'm a Professional Developer 👨‍💻 working remotely since 2021 🚀
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,git,github,linux,wordpress" />
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=flutter,swift,kotlin,java,react" />
     </td>
   </tr>
 </table>
