@@ -4,7 +4,6 @@ high-performance backend systems and distributed services.
 </h1>
 
 <p align="center">
-  🛠 Golang developer with 8 years of experience since 2017<br/>
   🌱 I focus on building reliable, production-ready systems<br/>
   💬 Ask me about Golang
 </p>
