@@ -1,5 +1,6 @@
 <h1 align="center">
-I'm a Backend Developer 👨‍💻 working remotely since 2021 🚀
+Senior Golang Developer with 8 years of experience building
+high-performance backend systems and distributed services.
 </h1>
 
 <p align="center">
