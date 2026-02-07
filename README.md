@@ -1,11 +1,11 @@
 <h1 align="center">
-Senior Golang Developer with 8 years of experience building
+Full Stack Developer with 8 years of experience building
 high-performance backend systems and distributed services.
 </h1>
 
 <p align="center">
   🌱 I focus on building reliable, production-ready systems<br/>
-  💬 Ask me about Golang
+  💬 Ask me about Golang and React.js
 </p>
 
 ---
@@ -21,7 +21,7 @@ high-performance backend systems and distributed services.
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=vue,html,css,js,tailwind,bootstrap,figma" />
+      <img src="https://skillicons.dev/icons?i=reactjs,vue,html,css,js,tailwind,bootstrap,figma" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=go,nodejs,python,php,dotnet,postgres,mysql,redis" />
