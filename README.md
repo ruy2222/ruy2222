@@ -21,13 +21,13 @@ high-performance backend systems and distributed services.
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=react,vue,html,css,js,tailwind,bootstrap,figma" />
+      <img src="https://skillicons.dev/icons?i=react,html,css,js,bootstrap,figma" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=go,nodejs,python,php,dotnet,postgres,mysql,redis" />
+      <img src="https://skillicons.dev/icons?i=go,nodejs,python,postgres,mysql,redis" />
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,nginx,git,github,linux,wordpress" />
+      <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux" />
     </td>
   </tr>
 </table>
