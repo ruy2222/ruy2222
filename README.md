@@ -21,7 +21,7 @@ high-performance backend systems and distributed services.
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=reactjs,vue,html,css,js,tailwind,bootstrap,figma" />
+      <img src="https://skillicons.dev/icons?i=react,vue,html,css,js,tailwind,bootstrap,figma" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=go,nodejs,python,php,dotnet,postgres,mysql,redis" />
