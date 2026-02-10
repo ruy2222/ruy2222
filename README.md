@@ -38,7 +38,3 @@ high-performance backend systems and distributed services.
 - Clean architecture
 - Tests and documentation
 - Pragmatic, scalable solutions
-
-## 📫 Contact
-- LinkedIn: https://www.linkedin.com/in/eric-chan-6815a83a8/
-- Email: hhartzell7674@gmail.com
