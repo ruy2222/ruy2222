@@ -1,6 +1,5 @@
 <h1 align="center">
-Senior Backend Developer with 7 years of experience building
-high-performance backend systems and distributed services.
+Senior Backend Developer with 7 years of experience.
 </h1>
 
 <p align="center">
@@ -10,9 +9,11 @@ high-performance backend systems and distributed services.
 
 ---
 
-## My Skill Set
+<h2 align="center">
+My Skills
+</h2>
 
-<table>
+<table align = "center">
   <tr>
     <th align="center">Backend</th>
     <th align="center">DevOps & CMS</th>
@@ -33,8 +34,3 @@ high-performance backend systems and distributed services.
 </table>
 
 ---
-
-## 🤯 How I work
-- Clean architecture
-- Tests and documentation
-- Pragmatic, scalable solutions
