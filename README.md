@@ -1,5 +1,5 @@
 <h1 align="center">
-Full Stack Developer with 8 years of experience building
+Senior Backend Developer with 8 years of experience building
 high-performance backend systems and distributed services.
 </h1>
 
