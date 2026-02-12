@@ -16,14 +16,18 @@ high-performance backend systems and distributed services.
   <tr>
     <th align="center">Backend</th>
     <th align="center">DevOps & CMS</th>
+    <th align="center">Database</th>
   </tr>
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=go,nodejs,python,postgres,mysql,redis" />
+      <img src="https://skillicons.dev/icons?i=go,nodejs" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb" />
     </td>
   </tr>
 </table>
