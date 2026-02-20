@@ -1,10 +1,9 @@
 <h1 align="center">
-Senior Backend Developer with 7 years of experience.
+Web Developer with 6 years of experience.
 </h1>
 
 <p align="center">
   🌱 I focus on building reliable, production-ready systems<br/>
-  💬 Ask me about Golang and Node.js
 </p>
 
 ---
@@ -15,6 +14,7 @@ My Skills
 
 <table align = "center">
   <tr>
+    <th align="center">Frontend</th>
     <th align="center">Backend</th>
     <th align="center">DevOps & CMS</th>
     <th align="center">Database</th>
@@ -22,7 +22,10 @@ My Skills
 
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=go,nodejs" />
+      <img src="https://skillicons.dev/icons?i=react,nextjs,vuejs,typescript" />
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=go,nodejs,python,php,django" />
     </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux" />
